@@ -1,2 +1,2 @@
 # LeonardoFirmata
-Firmato for Arduino Leonardo’s on platformio
+StandardFirmata for Arduino Leonardo’s on platformio
